@@ -1,6 +1,6 @@
-package cn.seacat.ajaxlistview;
+package com.github.ajaxlistview;
 
-import cn.seacat.ajaxlistview.AjaxListViewController.IAjaxRefreshCallback;
+import com.github.ajaxlistview.AjaxListViewController.IAjaxRefreshCallback;
 
 public interface IAjaxController {
 	void setRefreshCallback(IAjaxRefreshCallback impl);

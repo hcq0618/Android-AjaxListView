@@ -1,4 +1,4 @@
-package cn.seacat.ajaxlistview;
+package com.github.ajaxlistview;
 
 /*author changqiang 
  email  hcq0618@163.com */

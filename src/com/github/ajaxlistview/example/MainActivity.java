@@ -1,4 +1,4 @@
-package cn.seacat.ajaxlistview.example;
+package com.github.ajaxlistview.example;
 
 import cn.seacat.ajaxlistview.R;
 import android.app.Activity;
