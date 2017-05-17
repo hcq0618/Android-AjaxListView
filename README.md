@@ -13,6 +13,7 @@ Android-AjaxListView
 3、也可以单独继承并使用AbsAjaxAdapter来使你自己的listAdapter代码更简洁
 继承后你的adapter只需要简单的像下面这样写 就可以完成布局：
 
+```java
 	@Override
 	public void setupView(int id, View v, int position, View contentView,
 			ViewGroup parent) {
@@ -35,7 +36,8 @@ Android-AjaxListView
 		}
 		progresses.put(position, progress);
 	}
-	
+```
+
 4、项目中附带比较详细的demo
 
 ## License
