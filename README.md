@@ -1,7 +1,7 @@
 Android-AjaxListView
 ====================
 
-有局部刷新功能的listview 类似Ajax include partial refresh feature's listview like ajax
+有局部刷新功能的listview 类似Ajax - include partial refresh feature's listview like ajax
 
 
 1、一般listview刷新数据都会导致界面全部刷新 
